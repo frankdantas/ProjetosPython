@@ -45,5 +45,10 @@ O processo de aprendizado e tratamento de dados foi.
 - Com base no modelo escolhido, importar e tratar dados da tabela de novos clientes
 - Prever o resultado do Score de cada cliente novo baseado nas informações desses clientes e o modelo treinado.
 
-## Projeto 04 - Em andamento
+## Projeto 04 - WebChat
 
+Esse projeto é um webchat na rede local usando o pacote Flet, o projeto é um simples chat onde os usuários podem:
+
+- Entrar no chat com o apelido que escolher
+- Enviar mensagem para todos os usuarios
+- Sair do chat e trocar de apelido
